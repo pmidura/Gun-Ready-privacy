@@ -2,7 +2,7 @@ Polityka prywatności
 ----------------
 
 ### Wprowadzenie  
-Nasza polityka prywatności pomoże ci zrozumieć, jakie informacje gromadzimy w Gun Ready, w jaki sposób Gun Ready je wykorzystuje i jakie masz możliwości wyboru.
+Nasza polityka prywatności pomoże Ci zrozumieć, jakie informacje gromadzimy w Gun Ready, w jaki sposób Gun Ready je wykorzystuje i jakie masz możliwości wyboru.
 Patryk Midura stworzył aplikację Gun Ready jako aplikację bezpłatną. Usługa jest świadczona przez Gun Ready bezpłatnie i jest przeznaczona do użytku w stanie, w jakim się znajduje.
 Jeśli użytkownik zdecyduje się korzystać z naszej Usługi, wyraża zgodę na gromadzenie i wykorzystywanie informacji zgodnie z niniejszą polityką. Gromadzone przez nas dane osobowe są wykorzystywane do świadczenia i ulepszania Usługi. Nie będziemy wykorzystywać ani udostępniać danych użytkownika nikomu, z wyjątkiem przypadków opisanych w niniejszej Polityce prywatności.  
 Terminy użyte w niniejszej Polityce prywatności mają takie samo znaczenie, jak w naszych Warunkach, które są dostępne na naszej stronie internetowej, chyba że w niniejszej Polityce prywatności określono inaczej.
