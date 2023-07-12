@@ -26,7 +26,7 @@ W niektórych przypadkach zbieramy informacje z urządzenia użytkownika. Inform
 Możemy zatrudniać firmy i osoby trzecie z następujących powodów:  
 * Aby ułatwić korzystanie z naszej Usługi;
 * W celu świadczenia Usługi w naszym imieniu;
-* W celu świadczenia usług związanych z Usługą; lub
+* W celu świadczenia usług związanych z Usługą;
 * Aby pomóc nam w analizie sposobu korzystania z naszej Usługi.  
 
 Chcemy poinformować użytkowników tej Usługi, że te osoby trzecie mają dostęp do Danych Osobowych użytkownika. Powodem jest wykonywanie zadań przypisanych im w naszym imieniu. Są one jednak zobowiązane do nieujawniania ani niewykorzystywania tych informacji w żadnym innym celu.
